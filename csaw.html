@@ -9,12 +9,12 @@
         <div class="csaw-item-container">
             <div class="csaw-item" v-for="items in section.items" @click="window.open(items.link,'_blank')">
                 <img :src="global.logos[items.logo]" :alt="items.title" height="20" width="20">
-                <a class="hover-underline-animation" :href="items.link" target="_blank" v-html="items.title"></a>
+                <span class="hover-underline-animation" v-html="items.title"></span>
             </div>
         </div>
     </div>
 </div>
-<script src="https://unpkg.com/petite-vue"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/petite-vue/0.4.1/petite-vue.umd.js"></script>
 <script type="module">
     const { reactive, createApp } = PetiteVue;
     const json = await fetch('h' + 'ttps://raw.githubusercontent.com/SummerPaX/CSAW-Moodle-App/master/csawData.json')
@@ -24,7 +24,8 @@
     createApp(json).mount();
 </script>
 <script type="module">
-    const data = await fetch('h' + 'ttps://raw.githubusercontent.com/SummerPaX/CSAW-Moodle-App/master/csaw.css').then(res => res.text())
+    // const data = await fetch('h' + 'ttps://raw.githubusercontent.com/SummerPaX/CSAW-Moodle-App/master/csaw.css').then(res => res.text())
+    const data = await fetch('./csaw.css').then(res => res.text())
 
     const css = document.createElement("style")
     css.innerText = data

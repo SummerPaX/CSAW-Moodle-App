@@ -39,18 +39,16 @@
 }
 
 
-.csaw-item a {
+.csaw-item span {
     color: rgb(40, 58, 91);
     text-decoration: none;
 }
 
-.csaw-item a:hover {
+.csaw-item span:hover {
     color: rgb(39, 80, 116);
+    text-decoration: underline;
 }
 
-.csaw-item a:visited {
-    color: rgb(72, 65, 143);
-}
 
 .csaw-section {
     display: flex;
@@ -71,7 +69,7 @@ h2 {
     font-weight: 200;
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 1100px) {
     .csaw-container {
         grid-template-columns: repeat(5, minmax(min-content, max-content));
     }
