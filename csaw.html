@@ -17,14 +17,14 @@
 <script src="https://unpkg.com/petite-vue"></script>
 <script type="module">
     const { reactive, createApp } = PetiteVue;
-    const json = await fetch('h' + 'ttps://gist.githubusercontent.com/SummerPaX/70a7dd1e0eb0ed722f842817edc7a72d/raw')
+    const json = await fetch('h' + 'ttps://raw.githubusercontent.com/SummerPaX/CSAW-Moodle-App/master/csawData.json')
         .then(res => res.json())
         .then(data => reactive(data));
 
     createApp(json).mount();
 </script>
 <script type="module">
-    const data = await fetch('h' + 'ttps://gist.githubusercontent.com/SummerPaX/4f70b556d55fecb6c32a837b4b0d4787/raw').then(res => res.text())
+    const data = await fetch('h' + 'ttps://raw.githubusercontent.com/SummerPaX/CSAW-Moodle-App/master/csaw.css').then(res => res.text())
 
     const css = document.createElement("style")
     css.innerText = data
