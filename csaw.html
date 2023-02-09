@@ -1,0 +1,32 @@
+<div class="csaw-container" v-scope>
+    <div style="position: relative;" v-if="sections.lenth <= 0">
+        <a style="color: gray; position: absolute;" target="_blank"
+            href="https://gist.github.com/SummerPaX/70a7dd1e0eb0ed722f842817edc7a72d">Course Data -
+            JSON</a>
+    </div>
+    <div class="csaw-section" v-for="section in sections">
+        <h2 class="csaw-section-title" v-html="section.title"></h2>
+        <div class="csaw-item-container">
+            <div class="csaw-item" v-for="items in section.items" @click="window.open(items.link,'_blank')">
+                <img :src="global.logos[items.logo]" :alt="items.title" height="20" width="20">
+                <a class="hover-underline-animation" :href="items.link" target="_blank" v-html="items.title"></a>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://unpkg.com/petite-vue"></script>
+<script type="module">
+    const { reactive, createApp } = PetiteVue;
+    const json = await fetch('h' + 'ttps://gist.githubusercontent.com/SummerPaX/70a7dd1e0eb0ed722f842817edc7a72d/raw')
+        .then(res => res.json())
+        .then(data => reactive(data));
+
+    createApp(json).mount();
+</script>
+<script type="module">
+    const data = await fetch('h' + 'ttps://gist.githubusercontent.com/SummerPaX/4f70b556d55fecb6c32a837b4b0d4787/raw').then(res => res.text())
+
+    const css = document.createElement("style")
+    css.innerText = data
+    document.head.appendChild(css)
+</script>

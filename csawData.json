@@ -1,0 +1,340 @@
+{
+  "sections": [
+    {
+      "title": "Mo. 16.01.2023",
+      "items": [
+        {
+          "logo": "GoogleSlides",
+          "title": "Javascript in a Nutshell",
+          "link": "https://docs.google.com/presentation/d/1IG7Aku1kgSiZ3E2Br8QwhO6Ov1UQt-2hDaL6dKzfY5s/edit?usp=sharing"
+        },
+        {
+          "logo": "GoogleSlides",
+          "title": "Typescript - Basics",
+          "link": "https://docs.google.com/presentation/d/1zdJNr4d-1N1dMQBNmspC_4fknkFKoHC8bnxesOBnYrc/edit?usp=sharing"
+        }
+      ]
+    },
+    {
+      "title": "Di. 17.01.2023",
+      "items": [
+        {
+          "logo": "GoogleDocs",
+          "title": "Aufgabe - Axios & Vite Teil 1",
+          "link": "https://docs.google.com/document/d/1PQeUnOvQ41FJEnY_Hlzp0Eg1BOVaKAFYFH2vckCXpe4/edit?usp=sharing"
+        },
+        {
+          "logo": "GoogleDocs",
+          "title": "Aufgabe - Axios & Vite Teil 2",
+          "link": "https://docs.google.com/document/d/1_67GTC9W5_r6Mcrk-TLH9lTJ9KP6da7xHb9VdWIf4Bk/edit?usp=sharing"
+        }
+      ]
+    },
+    {
+      "title": "Mi. 18.01.2023",
+      "items": [
+        {
+          "logo": "GoogleDocs",
+          "title": "Aufgabe - Axios & Vite Teil 2",
+          "link": "https://docs.google.com/document/d/1wxdAvvdmKJsrMe7uMHLv0ycj-6aWEJufowq83oz9Eis/edit?usp=sharing"
+        }
+      ]
+    },
+    {
+      "title": "Do. 19.01.2023",
+      "items": [
+        {
+          "logo": "GoogleDocs",
+          "title": "Advanced: Craft Beer Shop",
+          "link": "https://docs.google.com/document/d/1b7lMChzkiPxjxCUG0C6kHf9Qn3ThuCngas6JrPOO6-o/edit?usp=sharing"
+        },
+        {
+          "logo": "GitHub",
+          "title": "Schere Stein Papier - Example",
+          "link": "https://github.com/SummerPaX/schere-stein-papier"
+        }
+      ]
+    },
+    {
+      "title": "Fr. 20.01.2023",
+      "items": [
+        {
+          "logo": "GoogleDocs",
+          "title": "Aufgabe - Tick Tack Toe",
+          "link": "https://docs.google.com/document/d/1LGKVXgpZP8o98eJWYx9vNEXbA9hZYwP8EPgd2X4sAGg/edit?usp=sharing"
+        },
+        {
+          "logo": "GitHub",
+          "title": "Tick Tack Toe - Example",
+          "link": "https://github.com/SummerPaX/ticktacktoe"
+        }
+      ]
+    },
+    {
+      "title": "Mo. 23.01.2023",
+      "items": [
+        {
+          "logo": "GoogleSlides",
+          "title": "Vue Basics",
+          "link": "https://docs.google.com/presentation/d/1935FWiXRKn51rE1RFT8nZ3-3S5U2cMNjdknmlY--SUo/edit?usp=sharing"
+        },
+        {
+          "logo": "GitHub",
+          "title": "Vue Basics - Examples",
+          "link": "https://github.com/SummerPaX/vue-csaw"
+        }
+      ]
+    },
+    {
+      "title": "Di. 24.01.2023",
+      "items": [
+        {
+          "logo": "Vue",
+          "title": "Reactive Variables with ref()",
+          "link": "https://vuejs.org/guide/essentials/reactivity-fundamentals.html#reactive-variables-with-ref"
+        },
+        {
+          "logo": "Vue",
+          "title": "Template Syntax",
+          "link": "https://vuejs.org/guide/essentials/template-syntax.html"
+        },
+        {
+          "logo": "Vue",
+          "title": "Computed Properties",
+          "link": "https://vuejs.org/guide/essentials/computed.html"
+        },
+        {
+          "logo": "Vue",
+          "title": "Class & Style Bindings",
+          "link": "https://vuejs.org/guide/essentials/class-and-style.html"
+        },
+        {
+          "logo": "Vue",
+          "title": "Conditional Rendering - v-if / v-else",
+          "link": "https://vuejs.org/guide/essentials/conditional.html"
+        },
+        {
+          "logo": "Vue",
+          "title": "List Rendering - v-for",
+          "link": "https://vuejs.org/guide/essentials/list.html"
+        },
+        {
+          "logo": "Vue",
+          "title": "Form Input Bindings - v-model",
+          "link": "https://vuejs.org/guide/essentials/forms.html"
+        }
+      ]
+    },
+    {
+      "title": "Mi. 25.01.2023",
+      "items": [
+        {
+          "logo": "GoogleDocs",
+          "title": "Assignment - Expression Calculator",
+          "link": "https://docs.google.com/document/d/1cWVflWkNSSsCfq9N-JYStJ2KNtsXxdeDYsgUdh3LyV0/edit?usp=sharing"
+        },
+        {
+          "logo": "Vue",
+          "title": "Watch und WatchEffect",
+          "link": "https://vuejs.org/guide/essentials/watchers.html"
+        },
+        {
+          "logo": "Vue",
+          "title": "Component Lifecycle",
+          "link": "https://vuejs.org/guide/essentials/lifecycle.html"
+        },
+        {
+          "logo": "GitHub",
+          "title": "Debounce Example",
+          "link": "https://gist.github.com/SummerPaX/3c02afb77234bcacede28d7eda8f19b1"
+        }
+      ]
+    },
+    {
+      "title": "Do. 26.01.2023",
+      "items": [
+        {
+          "logo": "Vue",
+          "title": "Component Basics",
+          "link": "https://vuejs.org/guide/essentials/component-basics.html"
+        },
+        {
+          "logo": "Vue",
+          "title": "Typescript with Props",
+          "link": "https://vuejs.org/guide/typescript/composition-api.html#typing-component-props"
+        },
+        {
+          "logo": "Vue",
+          "title": "Typescript with Emits",
+          "link": "https://vuejs.org/guide/typescript/composition-api.html#typing-component-emits"
+        }
+      ]
+    },
+    {
+      "title": "Fr. 27.01.2023",
+      "items": [
+        {
+          "logo": "Vue",
+          "title": "Vue Router - Setup",
+          "link": "https://router.vuejs.org/installation.html"
+        }
+      ]
+    },
+    {
+      "title": "Mo. 30.01.2023",
+      "items": [
+        {
+          "logo": "GoogleDocs",
+          "title": "Aufgabe - Schere Stein Papier",
+          "link": "https://docs.google.com/document/d/100RKwpueDYFlizCETqiHrAQl2-R2zInPwqYAK5_wopI/edit?usp=sharing"
+        },
+        {
+          "logo": "GoogleSlides",
+          "title": "Create Vue App",
+          "link": "https://drive.google.com/file/d/1Aqcxn6a7MsSBI4-nHGGZQ_WOmiKibeCR/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "title": "Di. 31.01.2023",
+      "items": [
+        {
+          "logo": "GoogleDocs",
+          "title": "Aufgabe - Todo Liste",
+          "link": "https://docs.google.com/document/d/1Zegcg_kCdqnMBDgHYixycmT2NeaTL1s-YNrErhz5EFc/edit?usp=sharing"
+        },
+        {
+          "logo": "GitHub",
+          "title": "Todo App",
+          "link": "https://github.com/SummerPaX/vue-simple-todo"
+        }
+      ]
+    },
+    {
+      "title": "Mi. 01.02.2023",
+      "items": [
+        {
+          "logo": "Vue",
+          "title": "Vue Router - Docs",
+          "link": "https://router.vuejs.org/installation.html"
+        },
+        {
+          "logo": "GoogleSlides",
+          "title": "Vue Router - Presentation",
+          "link": "https://drive.google.com/file/d/1F8kLcT5FjzFYRZLTAcZwsm-ZfcEYE3VS/view?usp=sharing"
+        },
+        {
+          "logo": "Vue",
+          "title": "Vue Router - Cheat Sheet",
+          "link": "https://www.vuemastery.com/vue-router?coupon=ROUTER-DOCS&via=eduardo"
+        },
+        {
+          "logo": "GitHub",
+          "title": "Vue Router - Demo",
+          "link": "https://github.com/SummerPaX/vue-router-demo"
+        }
+      ]
+    },
+    {
+      "title": "Do. 02.02.2023",
+      "items": [
+        {
+          "logo": "GoogleDocs",
+          "title": "Aufgabe - Travel Tipps",
+          "link": "https://docs.google.com/document/d/1VTXHWTmsoSHqgRaKkdw4mW5GzYNVUM-7JxE7EYQbZAI/edit?usp=sharing"
+        }
+      ]
+    },
+    {
+      "title": "Fr. 03.02.2023",
+      "items": [
+        {
+          "logo": "GoogleDocs",
+          "title": "Aufgabe - Open Movie Db Watchlist",
+          "link": "https://docs.google.com/document/d/1ek5b5mVKuZo-ulMdcAfKGLojRuhEWqIvusZtViDJVAA/edit?usp=sharing"
+        },
+        {
+          "logo": "VueUse",
+          "title": "VueUse - Vue Composition Utilities",
+          "link": "https://vueuse.org/"
+        },
+        {
+          "logo": "GitHub",
+          "title": "VueUse - Examples",
+          "link": "https://github.com/SummerPaX/vue-use-examples"
+        }
+      ]
+    },
+    {
+      "title": "Mo. 06.02.2023",
+      "items": [
+        {
+          "logo": "GoogleSlides",
+          "title": "State Management with Pinia",
+          "link": "https://drive.google.com/file/d/10gl2ObAFMgUeX1u3cCzrBu3jnOIdU3wQ/view?usp=sharing"
+        },
+        {
+          "logo": "Pinia",
+          "title": "Pinia - Cheat Sheet",
+          "link": "https://www.vuemastery.com/pinia?coupon=PINIA-DOCS&via=eduardo"
+        },
+        {
+          "logo": "GoogleDocs",
+          "title": "Aufgabe - CyberShop Teil 1",
+          "link": "https://docs.google.com/document/d/1-y68PseErBTDnSKDsgA7-NXr88vEkI6bqK1dtnbTMFw/edit?usp=sharing"
+        }
+      ]
+    },
+    {
+      "title": "Di. 07.02.2023",
+      "items": [
+        {
+          "logo": "GoogleSlides",
+          "title": "Vue Router - Guards",
+          "link": "https://drive.google.com/file/d/14N0Vbtynsa7G2KNfeN1ynhr3VsYzJX2r/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "title": "Mi. 08.02.2023",
+      "items": [
+        {
+          "logo": "GoogleDocs",
+          "title": "Aufgabe - CyberShop Teil 2",
+          "link": "https://docs.google.com/document/d/1FtqTRv1zVZm1CD9ih_s6x7N6nGLckTAqtCtsZz7NE4Y/edit?usp=sharing"
+        },
+        {
+          "logo": "GitHub",
+          "title": "CyberShop - Login Example",
+          "link": "https://github.com/SummerPaX/csaw-cyberstore"
+        }
+      ]
+    },
+    {
+      "title": "Do. 09.02.2023",
+      "items": [
+        {
+          "logo": "GoogleSlides",
+          "title": "Vue 3 - Advanced",
+          "link": "https://drive.google.com/file/d/1csYXuPt1SryxAfhvTarv6DS9tv7rOXcy/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "title": "Fr. 10.02.2023",
+      "items": []
+    }
+  ],
+  "global": {
+    "logos": {
+      "Vue": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png",
+      "VueUse": "https://d33wubrfki0l68.cloudfront.net/2f6479d73bc25170dc532dd42e059166573bf478/61057/favicon.svg",
+      "Pinia": "https://pinia.vuejs.org/logo.svg",
+      "PDF": "https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg",
+      "GoogleDocs": "https://upload.wikimedia.org/wikipedia/commons/0/01/Google_Docs_logo_%282014-2020%29.svg",
+      "GoogleSlides": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Google_Slides_logo_%282014-2020%29.svg",
+      "Slidev": "https://d33wubrfki0l68.cloudfront.net/9a47dde680cca08e326c07824009ed1adc29626e/6a1c0/logo-title.png",
+      "GitHub": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
+    }
+  }
+}
