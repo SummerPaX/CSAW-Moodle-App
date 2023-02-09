@@ -1,8 +1,7 @@
 <div class="csaw-container" v-scope>
     <div style="position: relative;" v-if="sections.lenth <= 0">
         <a style="color: gray; position: absolute;" target="_blank"
-            href="https://gist.github.com/SummerPaX/70a7dd1e0eb0ed722f842817edc7a72d">Course Data -
-            JSON</a>
+            href="https://summerpax.github.io/CSAW-Moodle-App/csaw.html">Course Data</a>
     </div>
     <div class="csaw-section" v-for="section in sections">
         <h2 class="csaw-section-title" v-html="section.title"></h2>
@@ -24,8 +23,7 @@
     createApp(json).mount();
 </script>
 <script type="module">
-    // const data = await fetch('h' + 'ttps://raw.githubusercontent.com/SummerPaX/CSAW-Moodle-App/master/csaw.css').then(res => res.text())
-    const data = await fetch('./csaw.css').then(res => res.text())
+    const data = await fetch('h' + 'ttps://raw.githubusercontent.com/SummerPaX/CSAW-Moodle-App/master/csaw.css').then(res => res.text())
 
     const css = document.createElement("style")
     css.innerText = data
