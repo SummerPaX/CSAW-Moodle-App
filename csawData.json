@@ -322,13 +322,25 @@
     },
     {
       "title": "Fr. 10.02.2023",
-      "items": []
+      "items": [
+        {
+          "logo": "GitHub",
+          "title": "CyberShop - Products Example",
+          "link": "https://github.com/SummerPaX/csaw-cyberstore-products"
+        },
+        {
+          "logo": "Nuxt",
+          "title": "Nuxt",
+          "link": "https://nuxt.com/v3"
+        }
+      ]
     }
   ],
   "global": {
     "logos": {
       "Vue": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png",
       "VueUse": "https://d33wubrfki0l68.cloudfront.net/2f6479d73bc25170dc532dd42e059166573bf478/61057/favicon.svg",
+      "Nuxt": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg",
       "Pinia": "https://pinia.vuejs.org/logo.svg",
       "PDF": "https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg",
       "GoogleDocs": "https://upload.wikimedia.org/wikipedia/commons/0/01/Google_Docs_logo_%282014-2020%29.svg",
